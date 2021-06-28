@@ -13,6 +13,16 @@ export class RecipeListComponent implements OnInit {
       'This is simply a test',
       'http://picturetherecipe.com/wp-content/uploads/2020/07/Butter-Chicken-PTR-Featured-680x900.jpg'
     ),
+    new Recipe(
+      'Test',
+      'This is simply a test',
+      'http://picturetherecipe.com/wp-content/uploads/2020/07/Butter-Chicken-PTR-Featured-680x900.jpg'
+    ),
+    new Recipe(
+      'Test',
+      'This is simply a test',
+      'http://picturetherecipe.com/wp-content/uploads/2020/07/Butter-Chicken-PTR-Featured-680x900.jpg'
+    ),
   ];
   constructor() {}
 
